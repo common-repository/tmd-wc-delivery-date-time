@@ -1,0 +1,8 @@
+/**
+ * Tmd Delivery DateTime for WooCommerce css 
+ * version 1.0.2
+ * 
+ * http://themultimediadesigner.com/
+ * Author: ThemultiMediaDesigner Team
+ **/
+.tmd-dlvrdt-container{width: 100%; font-size: 14px;}.tmd-dlvrdt-table{width: 100%; border-collapse: collapse;vertical-align: text-top;}.tmd-dlvrdt-table tbody tr td, .tmd-dlvrdt-table tbody tr th{vertical-align: text-top; padding: 20px; text-align: left; font-size: inherit;}.tmd-dlvrdt-flex{display: flex;gap: 30px;}.tmd-dlvr-clear{margin: 10px 0;}.tmd-dlvr-th{width: 20%;}.tmd-dlvr-td{width: 70%;}.tmd-dlvr-cover{padding: 5px 0;}
